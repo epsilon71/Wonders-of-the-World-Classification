@@ -44,4 +44,4 @@ christ_the_redeemer
 24. Open the _result.jpg_ file that will be created and see the image with an added label of what monument it is on the top right and its confidence percentage.
 
 
-[View a video explanation here](video link
+[View a video explanation here]((https://youtu.be/YxDQeJB-jog)https://youtu.be/YxDQeJB-jog)
